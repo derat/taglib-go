@@ -23,7 +23,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/hjfreyer/taglib-go/taglib/id3"
+	"github.com/derat/taglib-go/taglib/id3"
 )
 
 // GenericTag is implemented by all the tag types in this project. It
